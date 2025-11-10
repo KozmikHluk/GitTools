@@ -1,5 +1,5 @@
 # GitTools
-These steps have been run in Linux Debian, Ubuntu & Red Hat Enterprise Linux 8.10 (Ootpa) environments.
+These steps have been designed & tested in various Linux distros, including Debian, Ubuntu & Red Hat Enterprise Linux 8.10 (Ootpa).
 
 <em>Lets get started with your git client.</em>
 
