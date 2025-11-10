@@ -1,7 +1,7 @@
 # GitTools
 These steps have been run in Linux Debian, Ubuntu & Red Hat Enterprise Linux 8.10 (Ootpa) environments.
 
-Lets get started with your git client.
+<em>Lets get started with your git client.</em>
 
 Install a GUI Git Client like [Tortoise Git](https://tortoisegit.org/download/).
 
